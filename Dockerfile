@@ -4,6 +4,7 @@ RUN set -ex \
         && apk add --virtual .run-deps \
                 ca-certificates \
                 ffmpeg \
+                gifsicle \
                 mailcap \
                 python3 \
                 py3-aiohttp \
