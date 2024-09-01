@@ -14,3 +14,5 @@ efb-search_msg-middleware
 efb-online-middleware
 git+https://github.com/Ovler-Young/efb-link_preview-middleware
 PySocks==1.7.1
+cairosvg
+lottie
