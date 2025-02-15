@@ -3,7 +3,7 @@
 echo "Starting bot."
 
 if [ $EFB_VERBOSE ]; then
-    exec s6-setuidgid abc ehforwarderbot --profile $EFB_PROFILE -v
+    exec s6-setuidgid abc ehforwarderbot --profile ComWeChat -v
 else
-    exec s6-setuidgid abc ehforwarderbot --profile $EFB_PROFILE
+    exec s6-setuidgid abc ehforwarderbot --profile ComWeChat
 fi
