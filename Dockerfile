@@ -45,7 +45,7 @@ RUN set -ex \
 ENV \
     LANG=zh_CN.UTF-8 \
     EFB_DATA_PATH=/config \
-    EFB_PROFILE=default \
+    EFB_PROFILE=ComWeChat \
     FFMPEG_BINARY=/usr/bin/ffmpeg \
     S6_BEHAVIOUR_IF_STAGE2_FAILS=2
 
