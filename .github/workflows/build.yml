@@ -6,9 +6,6 @@ on:
     branches:
       - master
     paths-ignore:
-      - '.github/dependabot.yml'
-      - 'LICENSE'
-      - 'README.md'
 
 jobs:
   docker:
