@@ -1,4 +1,4 @@
-Unofficial Docker image for [EH Forwarder Bot](https://github.com/ehForwarderBot/ehForwarderBot). Maintained by [Roy Xiang](http://github.com/RoyXiang).
+Unofficial Docker image for [EH Forwarder Bot](https://github.com/ehForwarderBot/ehForwarderBot). Maintained by [Roy Xiang](http://github.com/RoyXiang).。
 
 # Installed Channels and Middlewares
 
