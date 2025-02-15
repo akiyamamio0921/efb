@@ -16,3 +16,4 @@ PySocks==1.7.1
 cairosvg
 lottie
 pygifsicle
+rich
