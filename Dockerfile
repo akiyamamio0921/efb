@@ -7,6 +7,7 @@ RUN set -ex \
                 libmagic \
                 gifsicle \
                 mailcap \
+                zbar \
                 python3 \
                 py3-aiohttp \
                 py3-cairocffi \
@@ -23,6 +24,7 @@ RUN set -ex \
                 py3-setuptools \
                 py3-tempora \
                 py3-ujson \
+                py3-pyzbar \
                 py3-yaml \
                 sqlite \
         && rm -rf /var/cache/apk/*
