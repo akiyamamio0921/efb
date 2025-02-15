@@ -14,3 +14,5 @@ PySocks==1.7.1
 cairosvg
 lottie
 pygifsicle
+git+https://github.com/0honus0/python-comwechatrobot-http.git
+git+https://github.com/0honus0/efb-wechat-comwechat-slave.git
